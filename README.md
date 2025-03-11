@@ -1,9 +1,11 @@
-![image](https://github.com/user-attachments/assets/8dff89d7-13e9-4171-b4c1-3c0cb3670360)
-
-
 This data analysis project focuses on studying species observed in selected National Parks in the United States over a 7-day period. The dataset includes records of both non-endangered species and those of some level of concern (OSLOC), including species of concern, threatened species, endangered species, and species in recovery.
 
 Skills used: Python (Pandas, Matplotlib, Seaborn), Analysis Report Construction
+
+Exemplary data:
+![image](https://github.com/user-attachments/assets/8dff89d7-13e9-4171-b4c1-3c0cb3670360)
+Exemplary data visualization:
+![image](https://github.com/user-attachments/assets/04faacf2-07be-40f1-99e2-58cf24ffa58e)
 
 Through this analysis, I aim to gain insights into the current state of species protection and identify patterns that could inform future conservation strategies. Specifically, I will explore:
 
